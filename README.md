@@ -1,2 +1,2 @@
 # Csv_Organizer
-the scope of software that allows you to organize files in csv
+The scope of the software includes organizing CSV files and managing users with their respective access permissions.
